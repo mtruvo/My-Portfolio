@@ -10,7 +10,7 @@
   background: #cbe193;
   z-index: 1000;
   .txt {
-    color: #faf2f2;
+    color: #ffffff;
     text-align: center;
     top: 40%;
     position: relative;
@@ -25,10 +25,10 @@
 .spinner {
   position: relative;
   top: 35%;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto;
-  background-color: #cbe193;
+  background-color: #6e8a29;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 5s infinite ease-in-out;
   animation: sk-scaleout 5s infinite ease-in-out;
