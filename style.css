@@ -87,7 +87,7 @@ p {
 
 a,
 .btn {
-  color: #333;
+  color: white;
   transition: all 300ms ease;
 }
 
@@ -114,14 +114,14 @@ nav {
 a {
   color: black(250, 236, 236);
   text-decoration: none;
-  text-decoration-color: white;
+  text-decoration-color: #cbe193;
 }
 
 a:hover {
-  color: white;
+  color: #cbe193;
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(24, 19, 19);
+  text-decoration-color: #cbe193;
 }
 
 .logo {
@@ -163,7 +163,7 @@ a:hover {
 .hamburger-icon span {
   width: 100%;
   height: 2px;
-  background-color: black;
+  background-color: #cbe193;
   transition: all 0.3 ease-in-out;
 }
 
@@ -171,7 +171,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: white;
+  background-color: #cbe193;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
@@ -183,7 +183,7 @@ a:hover {
   padding: 10px;
   text-align: center;
   font-size: 1.5rem;
-  color: black;
+  color: white;
   text-decoration: none;
   transition: all 0.3 ease-in-out;
 }
