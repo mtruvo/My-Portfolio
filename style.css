@@ -80,7 +80,7 @@ html {
 }
 
 p {
-  color: rgba(247, 238, 238, 0.562);
+  color: rgba(8, 4, 4, 0.562);
 }
 
 /* Transition */
@@ -462,7 +462,7 @@ article .icon {
 }
 
 .project-btn {
-  color: black;
+  color: wheat;
   border-color: rgb(163, 163, 163);
 }
 
