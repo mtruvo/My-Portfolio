@@ -7,10 +7,10 @@
   width: 100%;
   height: 100vh;
   position: absolute;
-  background: #0b0e14;
+  background: #cbe193;
   z-index: 1000;
   .txt {
-    color: #ec1414;
+    color: #faf2f2;
     text-align: center;
     top: 40%;
     position: relative;
@@ -28,7 +28,7 @@
   width: 80px;
   height: 80px;
   margin: 0 auto;
-  background-color: #e05858;
+  background-color: #cbe193;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 5s infinite ease-in-out;
   animation: sk-scaleout 5s infinite ease-in-out;
@@ -40,7 +40,7 @@
   }
   100% {
     -webkit-transform: scale(1);
-    opacity: 0;
+    opacity: 10;
   }
 }
 
