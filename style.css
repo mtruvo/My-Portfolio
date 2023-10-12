@@ -336,7 +336,7 @@ section {
 .btn-color-1,
 .btn-color-2:hover {
   background: white(141, 39, 39);
-  color: black;
+  color: #cbe193;
 }
 
 .btn-color-1:hover {
